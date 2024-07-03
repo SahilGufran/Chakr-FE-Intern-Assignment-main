@@ -8,7 +8,7 @@
 
 - Refine
 - TypeScript
-- GraphQL
+- NextJS
 - shadcn ui
 - Codegen
 
