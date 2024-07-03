@@ -2,7 +2,7 @@
 <h1>Chakr-FE-Intern-Assignment-main</h1>
 ## About
 
-** Live [App](https://example.minimal-crm.refine.dev).**
+** Live demo of the CRM [App](https://example.minimal-crm.refine.dev).**
 
 ## Tech Stack
 
