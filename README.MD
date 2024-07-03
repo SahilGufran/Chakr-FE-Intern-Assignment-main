@@ -21,9 +21,8 @@ This repository contains the code corresponding to an in-depth tutorial availabl
 - Refine
 - TypeScript
 - GraphQL
-- Ant Design
+-shadcn ui
 - Codegen
-- Vite
 
 ## Features
 
@@ -35,7 +34,7 @@ This repository contains the code corresponding to an in-depth tutorial availabl
 
 **Companies Page**: Complete CRUD for company management and sales processes; detailed profiles with add/edit functions, associated contacts/leads, pagination, and field-specific search.
 
-**Kanban Board**: Collaborative board with real-time task updates; customization options include due dates, markdown descriptions, and multi-assignees, dynamically shifting tasks across dashboards.
+**Task page**: Collaborative board with real-time task updates; customization options include due dates, markdown descriptions, and multi-assignees, dynamically shifting tasks across dashboards.
 
 **Account Settings**: Personalized user account settings for profile management; streamlined configuration options for a tailored application experience.
 
