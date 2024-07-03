@@ -4,12 +4,6 @@
 
 ⭐ **Checkout the live demo of the application [here](https://example.minimal-crm.refine.dev).**
 
-Refine is an open-source React-meta framework specifically designed to meet the requirements of enterprise companies dev teams. It comes with a core package that simplifies app requirements like data handling, authentication, access control, etc.
-
-The repository also open-source; feel free to use or inspect it to discover how Refine works.
-
-Being production-ready, you can either build your own **B2B applications**, **internal tools**, **admin panels**, **dashboards** and all type of **CRUD** applications. using it as a code base or directly implement it as is.
-
 ## Tech Stack
 
 - Refine
