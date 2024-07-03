@@ -2,7 +2,7 @@
 
 ## About
 
-⭐ **Checkout the live demo of the application [here](https://example.minimal-crm.refine.dev).**
+**Checkout the live demo of the application [here](https://example.minimal-crm.refine.dev).**
 
 ## Tech Stack
 
