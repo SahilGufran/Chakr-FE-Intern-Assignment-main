@@ -3,8 +3,6 @@
 
 ## About
 
-** Live demo of the CRM [here](https://example.minimal-crm.refine.dev).**
-
 ## Tech Stack
 
 - Refine
